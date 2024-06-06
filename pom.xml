@@ -20,6 +20,6 @@
         </dependency>
     </dependencies>
     <build>
-      <finalname>webapp</finalname>
+      <finalName>webapp</finalName>
     </build>
 </project>
